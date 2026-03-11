@@ -27,7 +27,7 @@ Choosing the best move
 
 --Project structure--
 
--The folder titled OthelloAiChanges_GiovanniTuzzio contains a pdf titled OthelloAIChanges_GiovanniTuzzio.pdf that also explains how this AI works (it has the same information as this README).
+- The folder titled OthelloAiChanges_GiovanniTuzzio contains a pdf titled OthelloAIChanges_GiovanniTuzzio.pdf that also explains how this AI works (it has the same information as this README).
 - The folder titled Othello.AI.GiovanniTuzzioAI contains the .csproj and .cs code I made for this.
 - Also in this folder, inside the folders bin -> Debug -> net8.0 is where you'll find the Othello.AI.GiovanniTuzzioAI.dll I made.
 - I also created a folder titled Othello.Ai.AllRandomAIDLLs that contain all the Othello.AI.RandomN DLLs just so they're all in one spot.
