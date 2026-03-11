@@ -3,6 +3,7 @@
 This project contains the custom AI I made using NegaMax AB pruning to play the game Othello.
 
 --How the AI works--
+
 Generating movements
 - The AI will first identify what moves are actually valid according to the rules of Othello.
 - The AI will then flip the opponent's disc(s) if it's a valid move.
@@ -25,6 +26,7 @@ Choosing the best move
 - That chosen move is also returned asynchronously through the GetMoveAsync function.
 
 --Project structure--
+
 -The folder titled OthelloAiChanges_GiovanniTuzzio contains a pdf titled OthelloAIChanges_GiovanniTuzzio.pdf that also explains how this AI works (it has the same information as this README).
 - The folder titled Othello.AI.GiovanniTuzzioAI contains the .csproj and .cs code I made for this.
 - Also in this folder, inside the folders bin -> Debug -> net8.0 is where you'll find the Othello.AI.GiovanniTuzzioAI.dll I made.
